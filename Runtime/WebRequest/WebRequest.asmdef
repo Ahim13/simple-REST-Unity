@@ -1,0 +1,16 @@
+{
+    "name": "WebRequest",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d5c0892905041b143ad6a48050b3e318"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
